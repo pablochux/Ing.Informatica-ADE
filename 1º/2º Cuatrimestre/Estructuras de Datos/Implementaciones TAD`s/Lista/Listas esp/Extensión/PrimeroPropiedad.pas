@@ -1,0 +1,1 @@
+{PARCIAL} PrimeroPropiedad: TipoLista -> TipoElemento

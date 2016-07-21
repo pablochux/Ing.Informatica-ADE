@@ -1,0 +1,1 @@
+{PARCIAL} UltimoPropiedad: TipoLista -> TipoElemento
